@@ -1,7 +1,7 @@
 <h1 align="center">Meu portifólio</h1><p align="center">
 
 Bom aqui se encotra um dos meus primeiros sites, Ultilizei a api da [lanyard](https://lanyard.eggsy.xyz/) para rastrear algumas informações do usuário,
-sendo elas: Name, username, avatar, banner (🆕) e status. Sinta-se a vontade para baixar e fazer qualquer alteração. Não esqueça de entrar no [server da lanyard](https://discord.gg/lanyard) para funcionar corretamente!
+sendo elas: Name, username, avatar, banner e status. Sinta-se a vontade para baixar e fazer qualquer alteração. Não esqueça de entrar no [server da lanyard](https://discord.gg/lanyard) para funcionar corretamente!
 
 Clone atráves do Git clone:
 ``` bash
