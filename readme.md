@@ -13,7 +13,7 @@ https://github.com/stars02/portifolio
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </p>
 <p align="center">
-  <a href="https://stars02.xyz/">
+  <a href="https://starszk.site/">
     <img src="https://i.postimg.cc/tT5dH4jJ/preview.png">
   </a>
 Obrigado pela atenção :)
