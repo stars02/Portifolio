@@ -5,7 +5,7 @@ sendo elas: Name, username, avatar, banner e status. Sinta-se a vontade para bai
 
 Clone atráves do Git clone:
 ``` bash
-https://github.com/stars02/portifolio
+https://github.com/starszk/portifolio
 ```
 <h1 align="center">Foi ultilizado</h1><p align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
